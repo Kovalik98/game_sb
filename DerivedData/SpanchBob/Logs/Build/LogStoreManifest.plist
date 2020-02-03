@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>15CB1953-3DB9-43C3-8136-291A242893E5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>15CB1953-3DB9-43C3-8136-291A242893E5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpanchBob project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpanchBob</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SpanchBob</string>
+			<key>timeStartedRecording</key>
+			<real>596760132.26549101</real>
+			<key>timeStoppedRecording</key>
+			<real>596760137.72582698</real>
+			<key>title</key>
+			<string>Build SpanchBob</string>
+			<key>uniqueIdentifier</key>
+			<string>15CB1953-3DB9-43C3-8136-291A242893E5</string>
+		</dict>
+		<key>4C84B4AD-CD31-4716-B6C4-7E0B4526FB79</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C84B4AD-CD31-4716-B6C4-7E0B4526FB79.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpanchBob project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpanchBob</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SpanchBob</string>
+			<key>timeStartedRecording</key>
+			<real>596759947.42962599</real>
+			<key>timeStoppedRecording</key>
+			<real>596759953.28444195</real>
+			<key>title</key>
+			<string>Build SpanchBob</string>
+			<key>uniqueIdentifier</key>
+			<string>4C84B4AD-CD31-4716-B6C4-7E0B4526FB79</string>
+		</dict>
+		<key>5524E6FC-1CB7-4BC0-9B58-DC9B0E299506</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5524E6FC-1CB7-4BC0-9B58-DC9B0E299506.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpanchBob project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpanchBob</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SpanchBob</string>
+			<key>timeStartedRecording</key>
+			<real>596760265.44351196</real>
+			<key>timeStoppedRecording</key>
+			<real>596760268.395123</real>
+			<key>title</key>
+			<string>Build SpanchBob</string>
+			<key>uniqueIdentifier</key>
+			<string>5524E6FC-1CB7-4BC0-9B58-DC9B0E299506</string>
+		</dict>
+		<key>5B1AD845-840B-4CDA-A8E2-7AA35B046511</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5B1AD845-840B-4CDA-A8E2-7AA35B046511.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpanchBob project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpanchBob</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SpanchBob</string>
+			<key>timeStartedRecording</key>
+			<real>596760027.60768294</real>
+			<key>timeStoppedRecording</key>
+			<real>596760032.71869802</real>
+			<key>title</key>
+			<string>Build SpanchBob</string>
+			<key>uniqueIdentifier</key>
+			<string>5B1AD845-840B-4CDA-A8E2-7AA35B046511</string>
+		</dict>
+		<key>637413E6-584A-4822-B54A-3C8F72D8ADE3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>637413E6-584A-4822-B54A-3C8F72D8ADE3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpanchBob project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpanchBob</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SpanchBob</string>
+			<key>timeStartedRecording</key>
+			<real>596760282.90594602</real>
+			<key>timeStoppedRecording</key>
+			<real>596760287.86488497</real>
+			<key>title</key>
+			<string>Build SpanchBob</string>
+			<key>uniqueIdentifier</key>
+			<string>637413E6-584A-4822-B54A-3C8F72D8ADE3</string>
+		</dict>
+		<key>826B84B1-A94F-4364-A21C-28950D5FEEAE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>826B84B1-A94F-4364-A21C-28950D5FEEAE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpanchBob project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpanchBob</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SpanchBob</string>
+			<key>timeStartedRecording</key>
+			<real>596760066.33409202</real>
+			<key>timeStoppedRecording</key>
+			<real>596760073.08437002</real>
+			<key>title</key>
+			<string>Build SpanchBob</string>
+			<key>uniqueIdentifier</key>
+			<string>826B84B1-A94F-4364-A21C-28950D5FEEAE</string>
+		</dict>
+		<key>AE3A0A3F-38B3-4DA3-926A-35999192F6C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE3A0A3F-38B3-4DA3-926A-35999192F6C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpanchBob project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpanchBob</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SpanchBob</string>
+			<key>timeStartedRecording</key>
+			<real>596760306.75724602</real>
+			<key>timeStoppedRecording</key>
+			<real>596760309.04848301</real>
+			<key>title</key>
+			<string>Build SpanchBob</string>
+			<key>uniqueIdentifier</key>
+			<string>AE3A0A3F-38B3-4DA3-926A-35999192F6C3</string>
+		</dict>
+		<key>B2BC232D-50F1-4620-9743-0FF8F4E8B758</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B2BC232D-50F1-4620-9743-0FF8F4E8B758.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpanchBob project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpanchBob</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SpanchBob</string>
+			<key>timeStartedRecording</key>
+			<real>596759885.191365</real>
+			<key>timeStoppedRecording</key>
+			<real>596759891.72603095</real>
+			<key>title</key>
+			<string>Build SpanchBob</string>
+			<key>uniqueIdentifier</key>
+			<string>B2BC232D-50F1-4620-9743-0FF8F4E8B758</string>
+		</dict>
+		<key>B6F0B44A-7C29-4AE7-8AEF-FEF9CA9EFE38</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6F0B44A-7C29-4AE7-8AEF-FEF9CA9EFE38.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpanchBob project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpanchBob</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SpanchBob</string>
+			<key>timeStartedRecording</key>
+			<real>596760113.63647199</real>
+			<key>timeStoppedRecording</key>
+			<real>596760116.25363302</real>
+			<key>title</key>
+			<string>Build SpanchBob</string>
+			<key>uniqueIdentifier</key>
+			<string>B6F0B44A-7C29-4AE7-8AEF-FEF9CA9EFE38</string>
+		</dict>
+		<key>BC324313-CE43-4715-8004-D840502946D8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC324313-CE43-4715-8004-D840502946D8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpanchBob project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpanchBob</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SpanchBob</string>
+			<key>timeStartedRecording</key>
+			<real>596759382.29038298</real>
+			<key>timeStoppedRecording</key>
+			<real>596759389.72853899</real>
+			<key>title</key>
+			<string>Build SpanchBob</string>
+			<key>uniqueIdentifier</key>
+			<string>BC324313-CE43-4715-8004-D840502946D8</string>
+		</dict>
+		<key>C79C272E-445B-4F6B-94DA-3C7E7D50BF23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C79C272E-445B-4F6B-94DA-3C7E7D50BF23.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpanchBob project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpanchBob</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SpanchBob</string>
+			<key>timeStartedRecording</key>
+			<real>596760332.19877398</real>
+			<key>timeStoppedRecording</key>
+			<real>596760338.10255396</real>
+			<key>title</key>
+			<string>Build SpanchBob</string>
+			<key>uniqueIdentifier</key>
+			<string>C79C272E-445B-4F6B-94DA-3C7E7D50BF23</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

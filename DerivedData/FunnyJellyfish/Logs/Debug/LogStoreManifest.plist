@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B98DC724-C75B-4EE4-9A59-097E4CC797C4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B98DC724-C75B-4EE4-9A59-097E4CC797C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FunnyJellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FunnyJellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FunnyJellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600823363.26034606</real>
+			<key>timeStoppedRecording</key>
+			<real>600823389.87716901</real>
+			<key>title</key>
+			<string>Debug FunnyJellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>B98DC724-C75B-4EE4-9A59-097E4CC797C4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "20545e2d1d60e26f377291f84ef420de"
+build_time: [1575055997, 786727000]
+inputs:
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/MouseHunter/ViewController.swift": [1553519924, 0]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/MouseHunter/Mouse.swift": [1575055371, 326533274]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/MouseHunter/AppDelegate.swift": [1553268824, 0]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/MouseHunter/Classes.swift": [1575055854, 113395093]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/MouseHunter/GameMain.swift": [1575055997, 330582841]

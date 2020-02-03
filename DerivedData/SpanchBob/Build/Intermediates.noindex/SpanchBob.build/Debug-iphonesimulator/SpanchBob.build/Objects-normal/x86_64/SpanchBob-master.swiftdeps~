@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "2cabec701e89fd1dbbbc125eae5c4527"
+build_time: [1575067506, 910091000]
+inputs:
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/SpanchBob/ViewController.swift": [1575056522, 660971730]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/SpanchBob/Mouse.swift": [1575066582, 150852295]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/SpanchBob/AppDelegate.swift": [1575056522, 638748543]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/SpanchBob/Classes.swift": [1575062793, 36318893]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/SpanchBob/GameMain.swift": !private [1575067506, 693221732]

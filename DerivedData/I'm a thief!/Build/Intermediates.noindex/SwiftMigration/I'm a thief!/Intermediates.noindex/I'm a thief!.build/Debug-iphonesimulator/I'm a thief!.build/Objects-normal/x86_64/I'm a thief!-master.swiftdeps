@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "977161b3472f1b69e3cce32fa407b398"
+build_time: [1575056619, 814355000]
+inputs:
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/I'm a thief!/ViewController.swift": [1575056522, 660971730]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/I'm a thief!/Mouse.swift": [1575056522, 715659426]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/I'm a thief!/AppDelegate.swift": [1575056522, 638748543]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/I'm a thief!/Classes.swift": [1575056522, 684312392]
+  "/Users/nazarkovalik/Downloads/MouseHunter/MouseHunter/I'm a thief!/GameMain.swift": [1575056522, 735948915]

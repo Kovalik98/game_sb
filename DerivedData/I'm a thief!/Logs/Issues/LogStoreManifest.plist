@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>F36D9B77-E9A0-483D-95DE-16215CE3A998</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>F36D9B77-E9A0-483D-95DE-16215CE3A998.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>I'm_a_thief!-cvzlzcsslrwdcpabmvitcovatrsk</string>
+			<key>timeStartedRecording</key>
+			<real>596755739.80479503</real>
+			<key>timeStoppedRecording</key>
+			<real>596755745.05998194</real>
+			<key>title</key>
+			<string>Build target I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>F36D9B77-E9A0-483D-95DE-16215CE3A998</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

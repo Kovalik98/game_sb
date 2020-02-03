@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "dbaf7811e269ac6be0dfc1a9adfece28"
+build_time: [1578951704, 718357000]
+inputs:
+  "/Users/nazarkovalik/Desktop/work/MouseHunter/MouseHunter/Catch the jellyfish/ViewController.swift": [1575206266, 460919291]
+  "/Users/nazarkovalik/Desktop/work/MouseHunter/MouseHunter/Catch the jellyfish/Mouse.swift": [1575207476, 153745460]
+  "/Users/nazarkovalik/Desktop/work/MouseHunter/MouseHunter/Catch the jellyfish/AppDelegate.swift": [1575206266, 481628305]
+  "/Users/nazarkovalik/Desktop/work/MouseHunter/MouseHunter/Catch the jellyfish/Classes.swift": [1575314087, 896946973]
+  "/Users/nazarkovalik/Desktop/work/MouseHunter/MouseHunter/Catch the jellyfish/GameMain.swift": [1578951680, 892510632]

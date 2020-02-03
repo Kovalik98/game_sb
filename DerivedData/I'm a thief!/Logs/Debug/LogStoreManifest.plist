@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0613AF7F-A848-48F7-9FAC-30E3CAA218E1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0613AF7F-A848-48F7-9FAC-30E3CAA218E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596755498.88574505</real>
+			<key>timeStoppedRecording</key>
+			<real>596755615.68353999</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>0613AF7F-A848-48F7-9FAC-30E3CAA218E1</string>
+		</dict>
+		<key>2E13A64E-834B-4DC1-BCDB-ED9AAAF09ACF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2E13A64E-834B-4DC1-BCDB-ED9AAAF09ACF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596754688.50715995</real>
+			<key>timeStoppedRecording</key>
+			<real>596755314.093243</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>2E13A64E-834B-4DC1-BCDB-ED9AAAF09ACF</string>
+		</dict>
+		<key>2F42506F-9E83-48BB-99BE-9262E908144A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2F42506F-9E83-48BB-99BE-9262E908144A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596755379.28131604</real>
+			<key>timeStoppedRecording</key>
+			<real>596755493.99640799</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>2F42506F-9E83-48BB-99BE-9262E908144A</string>
+		</dict>
+		<key>53448074-7FD5-4F2E-A8AE-9D3F8F106D4A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>53448074-7FD5-4F2E-A8AE-9D3F8F106D4A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596755745.08473802</real>
+			<key>timeStoppedRecording</key>
+			<real>596756357.98457801</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>53448074-7FD5-4F2E-A8AE-9D3F8F106D4A</string>
+		</dict>
+		<key>67E6C9FA-5BDC-42B6-995F-A51188A1B881</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>67E6C9FA-5BDC-42B6-995F-A51188A1B881.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596750956.921628</real>
+			<key>timeStoppedRecording</key>
+			<real>596751400.985852</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>67E6C9FA-5BDC-42B6-995F-A51188A1B881</string>
+		</dict>
+		<key>6BE7EB2A-7C6C-43F9-A50D-C6963F71E7BB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6BE7EB2A-7C6C-43F9-A50D-C6963F71E7BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596751408.530756</real>
+			<key>timeStoppedRecording</key>
+			<real>596753195.05956995</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>6BE7EB2A-7C6C-43F9-A50D-C6963F71E7BB</string>
+		</dict>
+		<key>7F4AC86B-50AA-45A8-A164-971489528BC1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7F4AC86B-50AA-45A8-A164-971489528BC1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596749480.70243096</real>
+			<key>timeStoppedRecording</key>
+			<real>596749497.43921101</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>7F4AC86B-50AA-45A8-A164-971489528BC1</string>
+		</dict>
+		<key>8AF17091-D72F-4C5F-B765-56F58FFD4EE2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8AF17091-D72F-4C5F-B765-56F58FFD4EE2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596754265.148247</real>
+			<key>timeStoppedRecording</key>
+			<real>596754383.79424906</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>8AF17091-D72F-4C5F-B765-56F58FFD4EE2</string>
+		</dict>
+		<key>A8D16CA5-59C3-4CDE-A93F-FB4DE98D5291</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A8D16CA5-59C3-4CDE-A93F-FB4DE98D5291.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596755349.46783602</real>
+			<key>timeStoppedRecording</key>
+			<real>596755373.240762</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>A8D16CA5-59C3-4CDE-A93F-FB4DE98D5291</string>
+		</dict>
+		<key>B04F4CFF-2040-4EF3-A62B-F2CDA0006F1B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B04F4CFF-2040-4EF3-A62B-F2CDA0006F1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596755621.96839702</real>
+			<key>timeStoppedRecording</key>
+			<real>596755654.23990798</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>B04F4CFF-2040-4EF3-A62B-F2CDA0006F1B</string>
+		</dict>
+		<key>C0F82EF4-0763-4AEF-B578-9F1400C39D67</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C0F82EF4-0763-4AEF-B578-9F1400C39D67.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596753756.04224205</real>
+			<key>timeStoppedRecording</key>
+			<real>596754257.09933603</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>C0F82EF4-0763-4AEF-B578-9F1400C39D67</string>
+		</dict>
+		<key>C629C975-9227-4E0D-999A-D30039817DC7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C629C975-9227-4E0D-999A-D30039817DC7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596755321.09893596</real>
+			<key>timeStoppedRecording</key>
+			<real>596755342.33855796</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>C629C975-9227-4E0D-999A-D30039817DC7</string>
+		</dict>
+		<key>CA251B36-1127-4016-96A7-F6205C363656</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CA251B36-1127-4016-96A7-F6205C363656.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596753202.33085597</real>
+			<key>timeStoppedRecording</key>
+			<real>596753747.692788</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>CA251B36-1127-4016-96A7-F6205C363656</string>
+		</dict>
+		<key>DBA65079-E8AB-40B9-99B9-344B97B29ABE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DBA65079-E8AB-40B9-99B9-344B97B29ABE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596754391.21724403</real>
+			<key>timeStoppedRecording</key>
+			<real>596754423.77766597</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>DBA65079-E8AB-40B9-99B9-344B97B29ABE</string>
+		</dict>
+		<key>E7E6BBB5-B4B5-48A9-8291-DC03D86FF212</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E7E6BBB5-B4B5-48A9-8291-DC03D86FF212.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596754423.91044295</real>
+			<key>timeStoppedRecording</key>
+			<real>596754681.40222096</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>E7E6BBB5-B4B5-48A9-8291-DC03D86FF212</string>
+		</dict>
+		<key>E93D4064-58C4-4AEA-8A1D-F122184D29F9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E93D4064-58C4-4AEA-8A1D-F122184D29F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>I'm a thief! project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>I'm a thief!</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug I'm a thief!</string>
+			<key>timeStartedRecording</key>
+			<real>596755659.72222996</real>
+			<key>timeStoppedRecording</key>
+			<real>596755739.40513504</real>
+			<key>title</key>
+			<string>Debug I'm a thief!</string>
+			<key>uniqueIdentifier</key>
+			<string>E93D4064-58C4-4AEA-8A1D-F122184D29F9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

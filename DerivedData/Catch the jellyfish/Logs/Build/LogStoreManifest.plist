@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0B015B8A-872D-4E7B-A819-2236DF53E716</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B015B8A-872D-4E7B-A819-2236DF53E716.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644161.199839</real>
+			<key>timeStoppedRecording</key>
+			<real>600644166.55751097</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>0B015B8A-872D-4E7B-A819-2236DF53E716</string>
+		</dict>
+		<key>22ED17C0-642A-4413-B7E3-7FF713A115AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>22ED17C0-642A-4413-B7E3-7FF713A115AE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644116.51686096</real>
+			<key>timeStoppedRecording</key>
+			<real>600644122.24589896</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>22ED17C0-642A-4413-B7E3-7FF713A115AE</string>
+		</dict>
+		<key>249B7B7B-65B0-44E8-B90B-5EA9488BC426</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>249B7B7B-65B0-44E8-B90B-5EA9488BC426.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600643639.24512398</real>
+			<key>timeStoppedRecording</key>
+			<real>600643639.37959898</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>249B7B7B-65B0-44E8-B90B-5EA9488BC426</string>
+		</dict>
+		<key>40367826-1B43-4F6A-9908-9845E4705EB6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>40367826-1B43-4F6A-9908-9845E4705EB6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600643251.64173698</real>
+			<key>timeStoppedRecording</key>
+			<real>600643251.91135299</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>40367826-1B43-4F6A-9908-9845E4705EB6</string>
+		</dict>
+		<key>45CA106E-EC37-4460-BE9F-774AAD028C05</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>45CA106E-EC37-4460-BE9F-774AAD028C05.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600643998.01856303</real>
+			<key>timeStoppedRecording</key>
+			<real>600644003.165416</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>45CA106E-EC37-4460-BE9F-774AAD028C05</string>
+		</dict>
+		<key>484B285B-1A69-40B4-8F96-38DEE3E7C965</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>484B285B-1A69-40B4-8F96-38DEE3E7C965.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644480.90907001</real>
+			<key>timeStoppedRecording</key>
+			<real>600644488.63925803</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>484B285B-1A69-40B4-8F96-38DEE3E7C965</string>
+		</dict>
+		<key>5A12A95F-9FB6-446C-9520-B077EC20FD81</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A12A95F-9FB6-446C-9520-B077EC20FD81.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600643949.93253899</real>
+			<key>timeStoppedRecording</key>
+			<real>600643956.42144597</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>5A12A95F-9FB6-446C-9520-B077EC20FD81</string>
+		</dict>
+		<key>5B9D3463-1524-4DAF-B765-642F18CC2917</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5B9D3463-1524-4DAF-B765-642F18CC2917.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600643918.27925801</real>
+			<key>timeStoppedRecording</key>
+			<real>600643923.60281301</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>5B9D3463-1524-4DAF-B765-642F18CC2917</string>
+		</dict>
+		<key>7934714A-EA6E-445D-B25D-49A9F933489E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7934714A-EA6E-445D-B25D-49A9F933489E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644594.43402004</real>
+			<key>timeStoppedRecording</key>
+			<real>600644594.91043997</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>7934714A-EA6E-445D-B25D-49A9F933489E</string>
+		</dict>
+		<key>834D7923-58C1-41EA-9E4E-FB19918F6198</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>834D7923-58C1-41EA-9E4E-FB19918F6198.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644248.95655894</real>
+			<key>timeStoppedRecording</key>
+			<real>600644263.27551496</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>834D7923-58C1-41EA-9E4E-FB19918F6198</string>
+		</dict>
+		<key>8E11B2F2-3D3D-48E2-9A82-66788AFA4094</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E11B2F2-3D3D-48E2-9A82-66788AFA4094.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600643324.03404999</real>
+			<key>timeStoppedRecording</key>
+			<real>600643334.896819</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>8E11B2F2-3D3D-48E2-9A82-66788AFA4094</string>
+		</dict>
+		<key>92E3061E-EA23-41B3-87E2-EF82C0C38BBA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>92E3061E-EA23-41B3-87E2-EF82C0C38BBA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600643751.01598406</real>
+			<key>timeStoppedRecording</key>
+			<real>600643758.31642604</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>92E3061E-EA23-41B3-87E2-EF82C0C38BBA</string>
+		</dict>
+		<key>96E16F66-9EEA-436A-8019-1B92DF369481</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>96E16F66-9EEA-436A-8019-1B92DF369481.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644192.023278</real>
+			<key>timeStoppedRecording</key>
+			<real>600644197.07528305</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>96E16F66-9EEA-436A-8019-1B92DF369481</string>
+		</dict>
+		<key>9CC069D6-CF9E-4FE0-933E-0F398BBD0BC4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9CC069D6-CF9E-4FE0-933E-0F398BBD0BC4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600643871.77283895</real>
+			<key>timeStoppedRecording</key>
+			<real>600643878.76112795</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>9CC069D6-CF9E-4FE0-933E-0F398BBD0BC4</string>
+		</dict>
+		<key>A51140ED-C2DC-4B02-9D06-07DF398F5D66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A51140ED-C2DC-4B02-9D06-07DF398F5D66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644415.28796196</real>
+			<key>timeStoppedRecording</key>
+			<real>600644422.65762496</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>A51140ED-C2DC-4B02-9D06-07DF398F5D66</string>
+		</dict>
+		<key>A561D679-0D23-4A4B-88A3-039953F4A44B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A561D679-0D23-4A4B-88A3-039953F4A44B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644332.66507602</real>
+			<key>timeStoppedRecording</key>
+			<real>600644340.60744298</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>A561D679-0D23-4A4B-88A3-039953F4A44B</string>
+		</dict>
+		<key>AF7DECEE-F842-4171-A85E-BFC3856E6AFD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AF7DECEE-F842-4171-A85E-BFC3856E6AFD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644084.026999</real>
+			<key>timeStoppedRecording</key>
+			<real>600644089.36003006</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>AF7DECEE-F842-4171-A85E-BFC3856E6AFD</string>
+		</dict>
+		<key>C0D4AD96-CCD4-40C9-BCC0-2DDCB5F5A207</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C0D4AD96-CCD4-40C9-BCC0-2DDCB5F5A207.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644216.40569401</real>
+			<key>timeStoppedRecording</key>
+			<real>600644221.21597695</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>C0D4AD96-CCD4-40C9-BCC0-2DDCB5F5A207</string>
+		</dict>
+		<key>CF03EDE0-985E-43C3-916F-03818377D5D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF03EDE0-985E-43C3-916F-03818377D5D5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644504.44589198</real>
+			<key>timeStoppedRecording</key>
+			<real>600644515.01863801</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>CF03EDE0-985E-43C3-916F-03818377D5D5</string>
+		</dict>
+		<key>CF0D2B89-7C9D-4CE6-A5F0-270ED9078E20</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF0D2B89-7C9D-4CE6-A5F0-270ED9078E20.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600643515.09109294</real>
+			<key>timeStoppedRecording</key>
+			<real>600643525.38465905</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>CF0D2B89-7C9D-4CE6-A5F0-270ED9078E20</string>
+		</dict>
+		<key>DAE14446-0A0F-4E41-B15E-B597CB1D69AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DAE14446-0A0F-4E41-B15E-B597CB1D69AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600643435.13274801</real>
+			<key>timeStoppedRecording</key>
+			<real>600643457.46204698</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>DAE14446-0A0F-4E41-B15E-B597CB1D69AD</string>
+		</dict>
+		<key>DDC4CB72-54B3-4C71-9E8E-F03F4F7FD331</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DDC4CB72-54B3-4C71-9E8E-F03F4F7FD331.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600643758.32813394</real>
+			<key>timeStoppedRecording</key>
+			<real>600643773.03596103</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>DDC4CB72-54B3-4C71-9E8E-F03F4F7FD331</string>
+		</dict>
+		<key>EB2A7A05-9848-4C8F-8496-B2FE3C7C175F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB2A7A05-9848-4C8F-8496-B2FE3C7C175F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Catch the jellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Catch the jellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Catch the jellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600644570.57650495</real>
+			<key>timeStoppedRecording</key>
+			<real>600644574.76963198</real>
+			<key>title</key>
+			<string>Build Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>EB2A7A05-9848-4C8F-8496-B2FE3C7C175F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

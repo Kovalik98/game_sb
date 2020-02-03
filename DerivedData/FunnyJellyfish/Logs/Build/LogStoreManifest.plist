@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>18306AF9-9C56-4A34-A657-9F0DB11E8FD8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18306AF9-9C56-4A34-A657-9F0DB11E8FD8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FunnyJellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FunnyJellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive FunnyJellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600826507.21473396</real>
+			<key>timeStoppedRecording</key>
+			<real>600826527.74999702</real>
+			<key>title</key>
+			<string>Archive FunnyJellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>18306AF9-9C56-4A34-A657-9F0DB11E8FD8</string>
+		</dict>
+		<key>51B3A4A2-DCB7-497A-8F90-B75DD055FC1D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>51B3A4A2-DCB7-497A-8F90-B75DD055FC1D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FunnyJellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FunnyJellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive FunnyJellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600826663.16706896</real>
+			<key>timeStoppedRecording</key>
+			<real>600826679.72047806</real>
+			<key>title</key>
+			<string>Archive FunnyJellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>51B3A4A2-DCB7-497A-8F90-B75DD055FC1D</string>
+		</dict>
+		<key>6B6ED700-E624-43EF-AA53-0004FFB5DFE8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6B6ED700-E624-43EF-AA53-0004FFB5DFE8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FunnyJellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FunnyJellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FunnyJellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600826136.409145</real>
+			<key>timeStoppedRecording</key>
+			<real>600826137.74000096</real>
+			<key>title</key>
+			<string>Build FunnyJellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>6B6ED700-E624-43EF-AA53-0004FFB5DFE8</string>
+		</dict>
+		<key>CEBC75BF-0F3F-4228-8F10-0B616B72C4F6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CEBC75BF-0F3F-4228-8F10-0B616B72C4F6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FunnyJellyfish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FunnyJellyfish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive FunnyJellyfish</string>
+			<key>timeStartedRecording</key>
+			<real>600829082.04496598</real>
+			<key>timeStoppedRecording</key>
+			<real>600829104.79879403</real>
+			<key>title</key>
+			<string>Archive FunnyJellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>CEBC75BF-0F3F-4228-8F10-0B616B72C4F6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

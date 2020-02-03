@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>31920C60-FF3D-4155-A619-C4D8D3FB1CF3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>31920C60-FF3D-4155-A619-C4D8D3FB1CF3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Catch_the_jellyfish-cabauskexpqvtyccfatbecijeept</string>
+			<key>timeStartedRecording</key>
+			<real>600644571.04172695</real>
+			<key>timeStoppedRecording</key>
+			<real>600644574.55705094</real>
+			<key>title</key>
+			<string>Build target Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>31920C60-FF3D-4155-A619-C4D8D3FB1CF3</string>
+		</dict>
+		<key>4ADDA9BF-521D-4739-8085-DDD331EE9F79</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>4ADDA9BF-521D-4739-8085-DDD331EE9F79.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>Catch_the_jellyfish-aulyjoaxxunxbibgpojobbfqhjee</string>
+			<key>timeStartedRecording</key>
+			<real>600643251.78107798</real>
+			<key>timeStoppedRecording</key>
+			<real>600643251.90728199</real>
+			<key>title</key>
+			<string>Build target Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>4ADDA9BF-521D-4739-8085-DDD331EE9F79</string>
+		</dict>
+		<key>D4F0D7FC-5894-49DD-8D4E-D1F3A0AE8D9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>D4F0D7FC-5894-49DD-8D4E-D1F3A0AE8D9C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>Catch_the_jellyfish-biuzrbjqnliuobdtlamgasrltmkw</string>
+			<key>timeStartedRecording</key>
+			<real>597004942.76375401</real>
+			<key>timeStoppedRecording</key>
+			<real>597004942.86110997</real>
+			<key>title</key>
+			<string>Build target Catch the jellyfish</string>
+			<key>uniqueIdentifier</key>
+			<string>D4F0D7FC-5894-49DD-8D4E-D1F3A0AE8D9C</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

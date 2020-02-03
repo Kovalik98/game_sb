@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "d2aa9d57fb0c818dc0a984628e1c79d0"
+build_time: [1578952387, 994434000]
+inputs:
+  "/Users/nazarkovalik/Desktop/work/MouseHunter/MouseHunter/FunnyJellyfish/ViewController.swift": [1575206266, 460919291]
+  "/Users/nazarkovalik/Desktop/work/MouseHunter/MouseHunter/FunnyJellyfish/Mouse.swift": [1575207476, 153745460]
+  "/Users/nazarkovalik/Desktop/work/MouseHunter/MouseHunter/FunnyJellyfish/AppDelegate.swift": [1575206266, 481628305]
+  "/Users/nazarkovalik/Desktop/work/MouseHunter/MouseHunter/FunnyJellyfish/Classes.swift": [1575314087, 896946973]
+  "/Users/nazarkovalik/Desktop/work/MouseHunter/MouseHunter/FunnyJellyfish/GameMain.swift": [1578952360, 449440863]
